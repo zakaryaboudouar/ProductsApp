@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Computer",
+      "price": "750",
+      "quantity": "40",
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Tastatur",
+      "price": "20",
+      "quantity": "70",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "Mouse",
+      "price": "15",
+      "quantity": "60",
+      "selected": true,
+      "available": true,
+      "id": 3
+    }
+  ]
+}
